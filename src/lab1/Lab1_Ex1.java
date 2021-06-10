@@ -12,9 +12,9 @@ public class Lab1_Ex1 {
 		System.out.println("Enter A No. :");
 		
 		
-//		int c = sc.nextInt();
+	int c = sc.nextInt();
 		
-       float f = sc.nextFloat();
-System.out.println("Cube of number : "+(f*f*f));
+      // float f = sc.nextFloat();
+System.out.println("Cube of number : "+(c*c*c));
 	}
 }
